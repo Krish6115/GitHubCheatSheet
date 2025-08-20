@@ -84,3 +84,9 @@ git add path/to/yourfile.java
 git commit -m "Your commit message"
 
 git push origin main
+
+
+To push modified changes(m):
+git add.
+git commit -m "modified"
+git push
